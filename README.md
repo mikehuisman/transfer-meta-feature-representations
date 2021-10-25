@@ -50,3 +50,5 @@ For computing the CKA similarity scores, we use the *similarities.py* script, wh
 The joint classificationa ccuracy can be measured by running *joint.py* with the same arguments as the scripts above. 
 
 
+### Questions/feedback
+For questions or feedback, please send an email to m <DOT> huisman <AT> liacs <DOT> leidenuniv <DOT> nl
