@@ -2,6 +2,10 @@
 
 This is the code repository associated with the 2021 NeurIPS meta-learning workshop paper "A Preliminary Study on the Feature Representations of Transfer Learning and Gradient-Based Meta-Learning Techniques". 
 
+## Toy example
+
+The code for the toy example can be found [here](visualization/TFmetavis.ipynb)
+
 ## Meta-learning / pre-training
 
 The pre-training and meta-learning in few-shot image classifications settings can be run by executing the *main.py* script. Here, we include several examples with the best found hyperparameters (according to random search with a bduget of 30 function evaluations).
