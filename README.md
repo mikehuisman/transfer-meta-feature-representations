@@ -4,7 +4,7 @@ This is the code repository associated with the 2021 NeurIPS meta-learning works
 
 ## Toy example
 
-The code for the toy example can be found [here](visualization/TFmetavis.ipynb)
+The code for the toy example can be found [here](visualization/visTFmeta.ipynb)
 
 ## Meta-learning / pre-training
 
